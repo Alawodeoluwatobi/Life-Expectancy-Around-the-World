@@ -24,8 +24,8 @@ This project utilized data from  used data from WHO Global Health Observatory (G
 
 **Measures**
 
-•	Life Expectancy: Number of years expected to live in years.
-•	Year: The year of data collection for all countries ranging from 2000 to 2015. 
-•	Country: The name of each country included in the WHO data.
-•	Status: The classification of  countries as  developing or developed as defined by the UNDP.
-•	Percentage Expenditure: Expenditure on health as a percentage of GDP per capita (%), and it refers to how much a country spends on health care, expressed as a percentage of its income per person.
+1. Life Expectancy: Number of years expected to live in years.
+2. Year: The year of data collection for all countries ranging from 2000 to 2015.
+3. Country: The name of each country included in the WHO data.
+4. Status: The classification of  countries as  developing or developed as defined by the UNDP.
+5. Percentage Expenditure: Expenditure on health as a percentage of GDP per capita (%), and it refers to how much a country spends on health care, expressed as a percentage of its income per person.
