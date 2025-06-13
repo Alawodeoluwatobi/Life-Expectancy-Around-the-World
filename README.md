@@ -41,9 +41,28 @@ This project utilized data from  used data from WHO Global Health Observatory (G
 **Figure 1: Trend of Average Life Expectancy around the world, 2000 – 2015**
 
 Figure 1 shows the trend of average life expectancy of countries around the world between 2000 – 2015. Life expectancy was about 67 years in 2000; in 2005 it increased to 68 years and by 2010, it had risen to 70 years. There was a sharp decline to about 68 years in 2013 which could be due to incomplete data, but the life expectancy bounced back and rose to 72 years by 2015.
+
+![image](https://github.com/user-attachments/assets/f0184955-6648-453c-a644-82698af46101)
+
  	 
 Figure 2: Trend of Average Life Expectancy in developing countries, 2000 – 2015.
 
+
+![image](https://github.com/user-attachments/assets/ae77f9b2-4eb3-4636-871e-9eeeec7ecfb6)
+
+
 Figure 3: Trend of Average Life Expectancy in developed countries, 2000 – 2015. 
+
 Figures 2 & 3 show the trend of life expectancy in both developing and developed countries. In developing countries (Fig 2), the life expectancy in 2000 was about 65 years, and it increased to 66 years by the year 2005. 
+
+
+![image](https://github.com/user-attachments/assets/b8f21d96-4559-4a7a-a84e-bb315468f9ea)
+
+Figure 4: Countries with 5 highest life expectancy in 2000
+
+![image](https://github.com/user-attachments/assets/cc8fcf48-00e1-4ab6-908b-a72c3ab32d52)
+
+Figure 5: Countries with 5 lowest life expectancy in 2000
+
+
 
