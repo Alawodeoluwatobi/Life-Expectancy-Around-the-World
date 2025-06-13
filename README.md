@@ -33,7 +33,10 @@ This project utilized data from  used data from WHO Global Health Observatory (G
 
 **Findings
 **
+
+
 ![image](https://github.com/user-attachments/assets/212e4ff2-f642-4aa5-80ec-01b9f694d491)
+
 
 **Figure 1: Trend of Average Life Expectancy around the world, 2000 – 2015**
 
