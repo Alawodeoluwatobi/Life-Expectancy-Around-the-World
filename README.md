@@ -29,3 +29,17 @@ This project utilized data from  used data from WHO Global Health Observatory (G
 3. Country: The name of each country included in the WHO data.
 4. Status: The classification of  countries as  developing or developed as defined by the UNDP.
 5. Percentage Expenditure: Expenditure on health as a percentage of GDP per capita (%), and it refers to how much a country spends on health care, expressed as a percentage of its income per person.
+
+
+Results
+Descriptive Analyses
+
+![image](https://github.com/user-attachments/assets/57b5aa01-6f96-43f6-9d61-6b97d1f03c16)
+
+ 
+Figure 1: Trend of Average Life Expectancy around the world, 2000 – 2015
+Figure 1 shows the trend of average life expectancy of countries around the world between 2000 – 2015. Life expectancy was about 67 years in 2000; in 2005 it increased to 68 years and by 2010, it had risen to 70 years. There was a sharp decline to about 68 years in 2013 which could be due to incomplete data, but the life expectancy bounced back and rose to 72 years by 2015.
+ 	 
+Figure 2: Trend of Average Life Expectancy in developing countries, 2000 – 2015.Figure 3: Trend of Average Life Expectancy in developed countries, 2000 – 2015. 
+Figures 2 & 3 show the trend of life expectancy in both developing and developed countries. In developing countries (Fig 2), the life expectancy in 2000 was about 65 years, and it increased to 66 years by the year 2005. 
+
